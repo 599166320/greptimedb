@@ -46,3 +46,4 @@ benchmarks/data
 *.code-workspace
 
 venv/
+Cargo.lock
